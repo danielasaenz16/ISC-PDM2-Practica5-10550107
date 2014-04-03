@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DatosInternet</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="title_error">Cuidado</string>
+    <string name="title_error_mensaje">Red no disponible</string>
+
+</resources>
